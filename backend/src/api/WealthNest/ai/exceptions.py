@@ -1,0 +1,2 @@
+class ResponseNotGeneratedError(Exception):
+    pass
